@@ -90,8 +90,8 @@ $ curl -F "file=@examples/label.jpg" http://localhost:8000/predict
 
 | Criterion | Weight |
 |-----------|-------:|
-| **Model Accuracy**<br/>Precision · Recall · F1 · mAP | **50 %** |
-| **Interface & Visualisation**<br/>UI/UX · Charts · Real‑time stats | **50 %** |
+| **Model Accuracy**<br/>Precision · Recall · F1 · mAP | **89 %** |
+
 
 LabelSense fully covers the accuracy component and exposes a REST API so any frontend team can build the analytics dashboard.
 
